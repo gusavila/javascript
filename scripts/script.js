@@ -13,3 +13,4 @@ if (hourNow > 18) {
 }
 
 document.write('<h3>' + greeting + '</h3>');
+document.write('<img src="https://images5.alphacoders.com/463/thumb-1920-463801.jpg"');
