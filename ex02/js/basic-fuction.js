@@ -1,4 +1,4 @@
-var msg = 'click here to receive 10% off!'
+var msg = 'Click here to receive 10% off!'
 
 function updateMessage() {
     var el = document.getElementById('message');
