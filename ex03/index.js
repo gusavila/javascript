@@ -4,8 +4,8 @@ function Hotel (name, rooms, booked){
     this.booked = booked;
 
     this.checkAvailability = function() {
-        return this.rooms - this.booked
+        return this.rooms - this.booked;
     };
 }
 
-var batesMotel = new Hotel (bates, 40, 34);
+var batesHotel = new Hotel ('Bates', 40, 34);
